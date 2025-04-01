@@ -147,7 +147,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     elevation: 2,
     flexDirection: 'row',
-    justifyContent: 'flex-start', 
+    justifyContent: 'center', 
   },
   userIconContainer: {
     margin: 20,

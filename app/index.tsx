@@ -1,5 +1,4 @@
-import { registerRootComponent } from "expo";
-import App from "../App.js"; // Importa o App.tsx da raiz do projeto
+import { registerRootComponent } from 'expo';
+import App from '../App'; // Verifique se o caminho para o App.js está correto
 
-// Registra o componente principal do aplicativo
 registerRootComponent(App);
